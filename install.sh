@@ -5,7 +5,7 @@
 # 2. Find Devil Daggers in the game list
 # 3. Right click DD entry -> Properties -> Local Files
 # 4. Click "BROWSE LOCAL FILES".
-# 5. Copy this file there, it should be named "install.sh".
+# 5. Save this file there, it should be named "install.sh".
 # 6. You must mark install.sh as executable and run it. To do this...
 #
 # If you're using dolphin (KDE):
