@@ -10,7 +10,7 @@
 6. Then it'll start again, and then the fix should be there.
 6. Verify that the fix works by mashing W and A at the same time.
 
-# To uninstall/if something breaks:
+# To uninstall, or if something breaks
 1. Go to your Steam library
 2. Find Devil Daggers in the game list
 3. Right click DD entry -> Properties -> Local Files
