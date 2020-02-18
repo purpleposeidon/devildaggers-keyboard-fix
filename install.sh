@@ -17,9 +17,9 @@
 # Otherwise, in a terminal opened in devil dagger's directory:
 #   1. chmod +x ./install.sh && ./install.sh
 #
-# 8. You also need to have gdb installed. Search for it in your package manager; IDK the specifics of this.
-# 9. Run devil daggers from steam.
-# 10. Mash A and D simultaneously a bunch of times ingame to make sure the fix took.
+# 7. You also need to have gdb installed. Search for it in your package manager; IDK the specifics of this.
+# 8. Run devil daggers from steam.
+# 9. Mash A and D simultaneously a bunch of times ingame to make sure the fix took.
 
 # To uninstall/if something breaks:
 # 1. Go to your Steam library
