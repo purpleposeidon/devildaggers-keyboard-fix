@@ -3,7 +3,7 @@
 2. Open up a terminal.
 3. Paste in:
 
-    curl -sSf https://raw.githubusercontent.com/purpleposeidon/devildaggers-keyboard-fix/master/install-using-steam.sh | bash
+    `curl -sSf https://raw.githubusercontent.com/purpleposeidon/devildaggers-keyboard-fix/master/install-using-steam.sh | bash`
 
 4. Press enter.
 5. Devil Daggers should start, and then exit abruptly.
